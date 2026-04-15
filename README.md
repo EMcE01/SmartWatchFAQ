@@ -1,4 +1,4 @@
-# FAQ of a smart watch CH 5
+# FAQ of a smart watch CH 6
 A simple static website that swaps between images and expands text boxes when the user clicks on a frequently asked question.
 
 ---
